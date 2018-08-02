@@ -1,0 +1,61 @@
+{
+  "pages":[
+    
+    "pages/index/index",
+    "pages/trip/trip",
+    "pages/index/listPreview/listPreview",
+    "pages/about/about",
+    "pages/index/articles/article-6-1/article-6-1",
+    "pages/index/articles/article-4-1/article-4-1",
+    "pages/index/articles/article-5-1/article-5-1",
+    "pages/index/articles/article-3-4/article-3-4",
+    "pages/index/articles/article-3-3/article-3-3",
+    "pages/index/articles/article-3-2/article-3-2",
+    "pages/index/articles/article-3-1/article-3-1",
+    "pages/index/articles/article-1-1/article-1-1",
+    "pages/index/articles/article-2-2/article-2-2",
+    "pages/index/articles/article-2-1/article-2-1",
+    "pages/trip/countyView/changtai/changtai",
+    "pages/trip/countyView/xiangcheng/xiangcheng",
+    "pages/trip/countyView/longhai/longhai",
+    "pages/trip/countyView/longwen/longwen",
+    "pages/trip/countyView/zhaoan/zhaoan",
+    "pages/trip/countyView/nanjing/nanjing",
+    "pages/trip/countyView/pinghe/pinghe",
+    "pages/trip/countyView/zhangpu/zhangpu",
+    "pages/trip/countyView/dongshan/dongshan",
+    "pages/trip/countyView/yunxiao/yunxiao",
+    "pages/trip/countyView/huaan/huaan"
+  ],
+  "window":{
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#434343",
+    "navigationBarTitleText": "Hello江纠~",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "white",
+    "backgroundColor": "#434343",
+    "borderStyle": "white",
+    "color": "#DCDCDC",
+    "selectedColor": "#FFFFFF",
+    "list": [{
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/bar_home_black.png",
+        "selectedIconPath": "images/bar_home.png"
+      }, {
+      "pagePath": "pages/trip/trip",
+      "text": "旅游",
+      "iconPath": "images/bar_explore_black.png",
+      "selectedIconPath": "images/bar_explore.png"
+    }, {
+      "pagePath": "pages/about/about",
+      "text": "关于",
+      "iconPath": "images/bar_mine_black.png",
+      "selectedIconPath": "images/bar_mine.png"
+    }]
+  },
+  "debug": true
+}

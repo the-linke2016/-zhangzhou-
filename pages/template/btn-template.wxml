@@ -1,0 +1,7 @@
+<template name="menu">
+  <view class='btnBox'>
+    <navigator url="/pages/index/listPreview/listPreview?btnType={{ btnType }}" hover-stay-time='50'>
+      <text class='btnText'>{{ btnName }}</text>
+    </navigator>
+  </view>
+</template>

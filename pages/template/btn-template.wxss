@@ -1,0 +1,18 @@
+.btnBox {
+  width: 250rpx;
+  height: 150rpx;
+  display: inline-block;
+  margin: 25rpx;
+  background-color: #14E5C5;
+  border: 8rpx solid #AEF7EC;
+  border-radius: 35rpx;
+  text-align: center; 
+}
+
+.btnText {
+  line-height: 150rpx;
+  font-family: 'Microsoft YaHei';
+  color: #077FFB;
+  font-size: 40rpx;
+  font-weight: 700;
+}

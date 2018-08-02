@@ -1,0 +1,7 @@
+<template name="county">
+  <view class='countyNav'>
+    <navigator url="{{ countyUrl }}" hover-stay-time='50'>
+      <image src='{{ countyImg }}' mode='aspectFit' style='width: 730rpx; height: 350rpx'></image>
+    </navigator>
+  </view>
+</template>

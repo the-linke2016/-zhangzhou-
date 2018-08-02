@@ -1,0 +1,112 @@
+<view class='container'>
+  <text class='paraTitle'>漳州特色文化纵览</text>
+  <view>
+    <text class='detail' decode="true">　　世界文化遗产分为：物质和非物质文化遗产。非物质文化遗产既是历史发展的见证，又是珍贵的、具有重要价值的文化资源。它是各族人民世代相承、与群众生活密切相关的各种传统文化表现形式和文化空间。那么漳州文化给世界留下了什么？
+　　漳州木版年画：漳州木版年画始于宋代，盛于明清。繁多的民间民俗活动是漳州木版年画业生存和发展的基础，年画内容主要也是喜庆迎新和避邪两大类。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-2a95726dcc2cc0fa.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　漳州芗剧（歌仔戏）：芗剧是用闽南语演唱的地方剧种，又名歌仔戏，为福建省五大剧种之一。曲调优美，长于抒情，音乐极具特色，民歌色彩浓郁，说唱特点明显。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-494e4608a8a551d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-0a3e502426260c9c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　漳州布袋木偶戏：又称“景戏”、“指花戏”、“掌中戏”，傀儡戏剧种之一。
+　　漳州木偶雕刻：漳州木偶头雕刻是木偶戏道具制作中的一门特殊技艺，属于民间工艺美术，整体造型包括头、四肢、服装、冠盔等，木偶头雕刻仅指头部造型。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-7da42a3b4a88ad75.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　漳州锦歌是我省五大曲种之一，也是我市民族民间文化之瑰宝，与泉州南音并称为闽南民间姐妹艺术之花。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-0c9fd128598d1b1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　东山歌册：是一种民间文学的通俗唱本。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-5e5c0a599f8fe85e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　漳浦剪纸：漳浦剪纸最初只是作为刺绣的底样，随着民间民俗活动的盛行和受北方贴“窗花”等中原文化的影响，以其独特的艺术风格、浓烈的原始趣味和稚拙美感，在中国民间艺术中占有一定位置。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-a1da35c2905e1f9e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　白礁慈济宫吴真人诞辰祭典仪式：白礁慈济宫吴真人诞辰祭典仪式（民俗）2006年被省政府列为第一批省级非物质文化遗产名录。
+    </text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-ae5ff7814c78f162.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true"> 
+　　云霄纪念开漳圣王巡安民俗活动：“圣王巡安”起源于闽南“开漳圣地”云霄威惠庙，流传于福建、台湾及东南亚地区，是祭祀开漳圣王陈元光的传统节日风俗。
+    </text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-4e1b3179f81926b4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true"> 
+　　东山关帝文化：每年农历五月十三关帝圣诞期间，东山县皆举办关帝文化节，研究关帝文化的专家学者，皆组团到东山参加盛典。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-c05840ac8a8dd533.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true"> 
+　　诏安铁枝戏：铁枝戏起源于唐、兴于宋，由纸影戏发展而成。艺人双手操纵三根铁枝上的木偶进行表演，其音乐以潮州调、外江调为主，内容与流行的四平腔、传奇相融合
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-91edf7c1450b0634.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true"> 
+　　华安玉雕：华安玉雕是中国民间雕塑工艺中一种新兴而普及的优秀特种造型艺术，集雕、刻、塑技艺于一炉，具有实用性、装饰性和艺术性。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-92106fdd0576fb7c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true"> 
+　　土楼客家山歌：客家山歌，被称为有《诗经》遗风的天籁之音，自唐代始，已有一千多年的历史。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-c6b408ed7f549688.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　浦南古傩：漳州浦南古傩，是一项具有浓厚乡土风情的民俗舞蹈，流传于芗城区浦南镇。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-637da60124b79d25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　南靖四平锣鼓乐：四平锣鼓是闽南山区民间音乐文化的遗存，俗称粗锣鼓，起源于古代的四平戏，是早期的南戏弋阳诸腔之一。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-55361584a0447e1e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　漳浦竹马戏：竹马戏是一种古朴而稀少的民间歌舞小戏，享有“戏曲活化石”之誉。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-7f40dc3dbdea0998.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　林前村伽蓝王巡社：庆典起源于“开漳圣王”陈元光。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-c2b09113dbab98a5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+　　漳州南词：南词即曲调之意，与宋、元南曲相比，已是名同实异；曲体为西安鼓乐所独有，分前后两部分。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-17b17e0f8c260287.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+</text>
+  </view>
+</view>

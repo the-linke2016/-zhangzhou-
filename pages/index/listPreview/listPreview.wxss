@@ -1,0 +1,4 @@
+@import "/pages/template/list-template.wxss";
+.hidden {
+  display: none;
+}

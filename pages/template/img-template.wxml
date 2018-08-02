@@ -1,0 +1,8 @@
+<template name="reco">
+  <navigator class="recoNav" url="{{ articleUrl }}" hover-stay-time='50'>
+    <view class='microImg'>
+      <image src='{{ imgSrc }}' mode='aspectFit' style='width: 90px; height: 90px;'></image>
+    </view>
+    <text class='name'>{{ name }}</text>
+  </navigator>
+</template>

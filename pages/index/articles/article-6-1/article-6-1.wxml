@@ -1,0 +1,4 @@
+<view class='container'>
+  <text class='paraTitle'>便民服务平台</text>
+  <text class='paraTitle' selectable='true'>http://zz.fj12345.gov.cn</text>
+</view>

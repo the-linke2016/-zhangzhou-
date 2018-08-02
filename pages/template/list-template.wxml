@@ -1,0 +1,8 @@
+<template name="list">
+  <navigator class="listItem" url="{{ articleUrl }}" hover-stay-time='50'>
+    <view class='microImg'>
+      <image src='{{ imgSrc }}' mode='aspectFit' style='width: 125px; height: 80px;'></image>
+    </view>
+    <text class='desc'>{{ describe }}</text>
+  </navigator>
+</template>

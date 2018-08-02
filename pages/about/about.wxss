@@ -1,0 +1,8 @@
+.publicity {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+text{
+  font-size: 32rpx;
+}

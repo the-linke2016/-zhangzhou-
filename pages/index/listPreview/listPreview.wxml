@@ -1,0 +1,6 @@
+<import src="/pages/template/list-template.wxml" />
+<view wx:for="{{articlesList}}" wx:key="item.id">
+  <view class="{{item.articleType==btnType ? '' : 'hidden'}}">
+    <template is='list' data='{{imgSrc: item.imgSrc, describe: item.describe, articleUrl: item.articleUrl}}'></template>
+  </view>
+</view>

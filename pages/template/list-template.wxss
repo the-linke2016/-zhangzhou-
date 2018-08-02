@@ -1,0 +1,12 @@
+.listItem {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #B7B7B7;
+}
+.microImg {
+  width: 50rpx;
+  margin-left: 5px;
+}
+.desc {
+  margin-left: 250rpx;
+}

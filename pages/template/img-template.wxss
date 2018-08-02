@@ -1,0 +1,14 @@
+.recoNav {
+  text-align: center;
+}
+
+.microImg {
+  margin: 5px 5px;
+  z-index: -3;
+}
+
+.name {
+  position: relative;
+  font-size: 20rpx;
+  top: -60rpx;
+}

@@ -1,0 +1,6 @@
+<import src="/pages/template/county-template.wxml" />
+<view class='tripMenu'>
+  <view wx:for="{{countyList}}" wx:key="item.id">
+    <template is='county' data='{{countyUrl: item.countyUrl, countyImg: item.countyImg}}'></template>
+  </view>
+</view>

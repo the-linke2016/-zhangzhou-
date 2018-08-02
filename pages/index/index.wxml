@@ -1,0 +1,42 @@
+<import src="/pages/template/btn-template.wxml" />
+<import src="/pages/template/img-template.wxml" />
+<view class="navbar">
+  <view class="navbar-item" wx:for="{{navbar}}" wx:for-index="idx" data-idx="{{idx}}" bindtap="swichNav" wx:key="item.id">
+    <text class="navbar-text {{currentNavbar==idx ? 'active' : ''}}">{{item}}</text>
+  </view>
+</view>
+
+<swiper style="height: {{systemInfo.windowHeight}}px;" current="{{currentNavbar}}" duration="300" bindchange="changeNav">
+  <swiper-item>
+    <swiper indicator-dots="true" autoplay="true" interval="3000" duration="2000">
+      <block wx:for="{{swiperUrls}}" wx:key="this">
+        <swiper-item>
+          <image src="{{item}}" mode="aspectFit" />
+        </swiper-item>
+      </block>
+    </swiper>
+    <view class='recomend'>
+      <view wx:for='{{recomend}}' wx:key="this">
+        <template is="reco" data="{{articleUrl: item.articleUrl, imgSrc: item.imgSrc,name: item.name}}" />
+      </view>
+    </view>
+  </swiper-item>
+
+  <swiper-item>
+    <swiper indicator-dots="true" autoplay="true" interval="3000" duration="2000">
+      <block wx:for="{{menuImg}}" wx:key="this">
+        <swiper-item>
+          <image src="{{item}}" mode="aspectFit" />
+        </swiper-item>
+      </block>
+    </swiper>
+    <view class='menuList'>
+      <template is="menu" data="{{btnName: '历史沿革', btnType: '1'}}" />
+      <template is="menu" data="{{btnName: '人文风云', btnType: '2'}}" />
+      <template is="menu" data="{{btnName: '特色文化', btnType: '3'}}" />
+      <template is="menu" data="{{btnName: '自然景观', btnType: '4'}}" />
+      <template is="menu" data="{{btnName: '美食攻略', btnType: '5'}}" />
+      <template is="menu" data="{{btnName: '便利服务', btnType: '6'}}" />
+    </view>
+  </swiper-item>
+</swiper>

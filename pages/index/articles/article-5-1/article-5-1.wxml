@@ -1,0 +1,304 @@
+<view class='container'>
+  <text class='paraTitle'>漳州美食太多了 !!!</text>
+  <view>
+    <text class='detail' decode="true">　　这是一个你来了不得不吃，吃了就不想走的城市。小吃品种多不说，价格却还很实惠，人均不足百元就可以尝个遍，直到感叹肚皮不够装。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-edb56d25075235d9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　这些小吃主要从漳州古城、新华西、新华东这三个具有代表性的老城区衍生开来。紧接着就是学校周边，一中、三中、二中、八中、闽南师范大学附近。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-7fd2873d77d0a981.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　来漳州，不得不吃的首先是面食，以及搭配面食的各类卤料（大肠、粉肉、猪肝沿、豆腐、猪蹄包、猪皮、笋等等）、炸物（醋肉、炸蒸丸、五香等）。代表性的面食如下：
+    1、卤面：
+    历史悠久的卤面早已被漳州人列入一日三餐的选择之一。而在婚丧嫁娶、乔迁、开张等重要时候，漳州人都会打上一锅卤面，邀请亲朋好友过来品尝，这是一种日常的美食，更是一种习俗。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-3e38becdbe917b98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　一碗卤面好不好，关键在于卤汤的味道。干贝、香菇、虾干、鱿鱼干、肉片等下锅熬制，浇进搅拌开的鸡蛋液，再加酱油、水淀粉进行勾芡，就成了卤汤。讲究的还得有鲜笋丝、黄花菜。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-442b56cca1386e02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　碱面、豆芽、韭菜在沸水锅里氽一下，捞出后浇上卤汤，挑选你想要的配料，再加上蒜蓉醋、炸脆的蒜丁，最后撒上胡椒粉、香菜，一碗香喷喷的卤面就做好了。 吃卤面最好趁热，才会甘美可口。
+　　推荐：
+　　　　卤面海
+　　地址：芗城区元光南路百嘉花园
+　　　　府埕传统卤面
+　　地址：古城芳华横路（中山公园南门附近）
+　　　　阿芳卤面
+　　地址：中闽百汇旁、建设路、世纪广场靠元光南路段、八中对面阿蛤
+　　　　正宗洋老洲卤面
+　　地址：大通北路和平里22-5号店面（一中后门斜对面）
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-ce805dd6da9ac191.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+    2、五香面：
+　　漳州五香面又叫手抓面、豆干面。是以面片裹着油榨豆干或五香等好料，抓在手掌里进食而得名。吃的时候还必须在面片上抹上甜酱、蒜葺醋、花生酱、辣酱等酱料一起吃才带感，味道香、甜、酸、辣，口感冰凉、爽口。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-48e99441a5be02de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　许多人担心酱汁沾到衣服，后来的五香面逐渐演变成盘装的形式，将面份切小块，淋上酱汁之后，用筷子吃。小肠、丸子、炸豆腐一同煮制的清汤，撒上芹菜末，成为五香面的黄金搭档。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-895ef806ec012e77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　配料以炸物为主，常见的炸五香、豆干、蒸丸、炸肉是标配。也有猪皮冻、生肠、腊肠等等可以选择。在漳州，五香面也成为了许多人祭祖、拜拜的时候一定会准备的好料。
+　　推荐：
+　　　　达聪小巷五香面
+　　地址：漳州芗城区打锡巷小吃街36号（文昌门对面小区内街)
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-9ccddb87e768e484.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+    3、干拌面：
+　　干拌面每家的酱料和味道都略有不同，但花生酱是必须的。面条圆润细滑，酱汁的水分恰到好处，不粘不腻。它也有自己的黄金搭档，那就是豆腐干、手工肉丸、鸭血一通煮成的清汤。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-b90b22f5fc43e206.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　有的人也叫它猪蹄面，因为配料多半是加猪蹄（包），还有一些常规的卤料如卤大肠、卤豆干、卤鸭心鸭胗等。
+　　推荐：
+　　　　松树干拌面
+　　地址：芗城区新华西路内街北京路上店面
+　　　　广和隆猪蹄面
+　　地址：钟法路永信楼A幢5-6号店面
+　　　　苍园干拌面
+　　地址：苍园路陆达花园5幢11号(三中后门）
+　　　　阿国干拌面
+　　地址：漳福路10-2大润发对面
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-17d694c86ba17600.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">
+    4、沙茶面：
+　　漳州的沙茶面和南洋有着千丝万缕的联系。好吃的关键还是在于汤头，每一家的味道虽然都略有不同，但花生酱的微甜，沙茶的香辣总是不会少的。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-de7430faeb0b2e07.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　搭配沙茶面，最好的就是肉筋、猪内脏（小肠、鸭胗、猪心、猪腰、猪肝），也有的门店会有手打的肉泥、老蛏、海蛎等等。在漳州，沙茶面多数充当早餐、夜宵的角色，而它的身影在漳州也是无处不在。
+　　推荐：
+　　　　沙茶飚
+　　地址：九龙公园南门旁
+　　　　师院沙茶面
+　　地址：闽南师范大学校门对面
+　　　　亚阳沙茶面
+　　地址：水仙大街新元城市花园1栋店面
+　　　　亚建沙茶面
+　　地址：腾飞路561-2附近（近漳州八中）
+</text>
+    <text class='detail' decode="true">
+    5、鸭面：
+　　鸭骨头、鸭血熬制的清汤底，表面浮着细细的油花，散发出淡淡的鸭皮油脂香，没有沙茶面浓烈，却俘获了不少吃货。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-1e79d2d473604404.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　盛出清汤，在滚烫的鸭汤中汆过面条或米粉，加上一点时令青菜，搭配鸭肉、鸭腿、鸭胗、鸭心、鸭翅膀等任选的鸭部件，一碗非常丰盛的鸭面就上桌了。滴上一点陈醋，加点胡椒、冬菜，从鸭肉到汤汁到面条，鸭肉香留于唇齿间。
+　　推荐：
+　　　　龙机鸭面
+　　漳福路10-1（大润发对面）
+　　　　亚章鸭面
+　　地址：南昌中路（北桥市场，安德鲁森旁）
+　　　　原巷口阿勇鸭面
+　　地址：元光南路4-5号（工行对面）
+</text>
+    <text class='detail' decode="true">
+    6、锅边糊：
+　　锅边糊在闽南许多地方都可见到，锅边的做法大多相同，用一口热气腾腾的大锅边沿抹上一层米浆，干燥成片后，用铲子脱离，下入锅中的沸水中煮制。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-ef3afd08f0dc5dc5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　但漳州的锅边糊保留了常见的酱油色，口味也更浓郁一些。原因在于汤汁中加入了卤制卤料的卤汤，能够更好地提香。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-7195df3bf59a1e01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　除此之外，韭菜、蒜丁、芫荽、胡椒、油条，这些配料不能少。如今的锅边糊有的也会加入花蛤，增加鲜味。
+　　推荐：
+　　　　瑞金锅边糊
+　　地址：大通北路100-2号店面（通北街道办事处对面，近加油站）
+　　　　北桥锅边糊
+　　地址：大同路北桥市场对面
+　　　　天添锅边糊
+　　地址： 悦港路100-13号（悦港花园）
+</text>
+    <text class='detail' decode="true">
+    7、豆花粉：
+　　豆花一定是甜的？不一定。漳州的豆花有甜、有咸，甜豆花一般加糖水、蜂蜜，夏天时冰镇一下，十分爽口。而以咸味为主的豆花粉丝则是漳州的特色。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-4f055179846295c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　细腻的豆花和劲道的粉丝竟成了黄金搭档，柔中带刚。加上卤汁、萝卜干一同煮制小会，再配上卤蛋、卤大肠、粉肉等等卤料。撒上一小把香菜，好吃到爆炸。
+　　推荐：
+　　　　原水仙大街豆花
+　　地址：大同路北桥市场（北桥锅边糊对面）
+　　　　东华豆花
+　　地址：南昌路鑫荣美食街
+　　　　丽琴豆花
+　　地址：元光南路建元大厦二号店
+</text>
+    <text class='detail' decode="true">
+    8、海蛎煎：
+　　漳州的海蛎煎也是选用黑耳白肚、个头小小的新鲜海蛎珠，但口感上更为酥脆一些，地瓜粉相对少一些，与蒜末的青段，鸡蛋液一同煎成饼状。萝卜酸，蒜蓉甜辣酱作为搭配必不可少。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-970ff1f0054c6cc9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　推荐：
+　　　　建国蚵煎
+　　地址：漳州市中山公园南门
+　　　　府埕正宗亚木海蛎煎
+　　地址鑫荣花苑二期23栋一楼店面
+</text>
+    <text class='detail' decode="true">
+    9、肠粉：
+　　肠粉虽然来自广东，但漳州却对其进行了一些改良。体型更大之外，馅料也更足了。又薄又Q的肠粉皮里包着厚厚的蛋层、猪肉末或是牛肉末、香菇。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-f236d20529c0ba6d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　做好的肠粉洒上萝卜干、香菜，浇上一层秘制卤汤，吃上一口，是大大的满足感。
+　　推荐：
+　　　　好味道肠粉
+　　地址：漳州芗城区平等路(漳州大酒店对面的小路）
+　　　　黄记肠粉
+　　地址：漳州芗城区大通北路一中后门对面
+</text>
+    <text class='detail' decode="true">
+    10、枸杞汤：
+　　枸杞汤又叫做枸杞生烫，枸杞枝干晒干之后，加水熬成一锅茶色般的汤汁。盛起汤汁，大火烧开，加入不同搭配的生鲜，一般以肉筋、猪内脏搭配花蛤、老蛏等海鲜，快速煮熟后，加上一小把枸杞叶，就出锅了。
+</text>
+    <view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-0b17e8c9e7a4677a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+<text class='detail' decode="true">　　枸杞汤去肝火、明目，汤汁清澈，味道甘醇。许多人会在一夜宿醉之后的清晨来一碗，搭配咸饭或者拌面、拌面线，十分开胃。
+　　推荐：
+　　　　山城枸杞汤
+　　地址：南坑东路金冠花园9幢106号（吉马超市斜对面，豆纤旁边）
+　　　　原味枸杞生烫
+　　地址：新浦路桂溪花园A2幢110号
+</text>
+<text class='detail' decode="true">
+    11、煎包：
+　　漳州的煎包皮的厚度介于汤包和小笼包之间，以肉和葱为主要馅料。包好的包子，放入平底锅中，煎上一小会，加入一碗清水，盖上锅盖，直至水分完全被包子吸收，包子底部呈现微微焦脆状，掀开锅盖，煎包香扑鼻而来。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-d5b26478e7fb9eb0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　蘸上漳州的蒜蓉酱，咬上一口，浓浓的肉汁香混合着酱汁的酸甜，口感既有软糯，也有酥脆，回味无穷。
+　　推荐：
+　　　　志华煎包
+　　地址；漳州市行政服务中心对面
+　　　　阿玉煎包
+　　地址；建元路元南花园9幢1号店面
+</text>
+<text class='detail' decode="true">
+    12、肉粽：
+　　5元基本就能在漳州吃到料足又好吃的咸肉粽。烧肉、咸蛋黄、虾干、板栗、香菇统统包在热油炒制过的、酱油色的糯米里。粽叶淡淡的香气渗入带着五香味儿的糯香粽子里，打开之时颤巍巍的样子，真是舍不得咬下。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-ab1a549ffc5333dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+<text class='detail' decode="true">　　肉粽已然成为漳州人日常的美食，而不局限于端午。但在端午的时候，家家户户还会买上碱粽祭拜。碱粽更Q,呈黄色，没有包任何馅料，口感冰凉，蘸上白糖或者蜂蜜，别有一番风味。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-209a56bd7e33e747.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+<text class='detail' decode="true">　　推荐：
+　　　　曾记肉粽
+　　地址：北京路189号 （与台湾路交界处）
+　　　　府埕老牌肉粽
+　　地址：芳华南路20号
+</text>
+<text class='detail' decode="true">
+    13、面煎粿：
+　　漳州的面煎粿与厦门的满煎糕构造类似，但口味和口感却大为不同，面煎粿的外皮是一层煎制过的香脆“黄金甲”，内层是以独特酱料入味的面浆做成的面糕，面糕口感不是马拉糕一样的Q，而是粉粉糯糯中带着点弹性。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-a196e5563a2d266d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+<text class='detail' decode="true">　　分咸甜两种口味，甜味的中间是由桂花露、芝麻、花生、冬瓜糖碎末等做成。咸味的会在面粉糊里掺适量的味精与盐水，中间配料用虾米、胡椒粉、油葱等做成。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-bec1729193944163.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　人们可以根据自己口味的喜好进行选择。
+　　推荐：
+　　　　阿国面煎粿
+　　地址：菜市路
+　　　　小郑面煎粿
+　　地址：青年路锦群饭店对面
+</text>
+<text class='detail' decode="true">
+    14、四果汤：
+　　四果汤是漳州特色的甜品，由于历史的悠久，为什么叫四果汤，已没有准确的说法。其中一种是四果汤最初是由绿豆、薏米、阿达籽、莲子四大样做成，到现在增加了西瓜、杨桃、葡萄干、石花等十几种各色水果和配料，如今你说它是“十果汤”也毫不夸张了。在夏天，街头巷尾，随处都可以坐下来，吃一碗足以把一身的热汗都驱除出去。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-6682b0d229516e89.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+<text class='detail' decode="true">　　推荐：
+　　　　原公园后门四果汤
+　　地址：青年路鑫荣花苑二期24幢店面（邂逅咖啡隔壁）
+　　　　小洪四果汤
+　　地址：新华西南9幢18号（中山公园斜对面）
+</text>
+<text class='detail' decode="true">
+    15、麻糍：
+　　这是一种是常见的糯米糍团包着炸过的酥脆扁食皮，外面再裹上一层花生粉、芝麻碎、糖粉混合的碎末。另一种是没有馅料的碱水糍团，直接蘸碎末吃。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-41836b5cd111c900.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+<text class='detail' decode="true">　　而麻糍店里一般不会只卖麻糍，还会满满当当地摆上一些茶配小点心。用粽叶包裹，分咸、甜两种口味的大包粿；蘸花生粉QQ串；咸粿（类似加了油葱、肉末的萝卜糕）、黑眼睛（一种类似清明粿，用草药汁入皮，里面包裹绿豆泥的甜点）；糯米糕（豆皮包裹炒过的糯米，糯米中夹肉松等馅料）等等。
+　　推荐：
+　　　　杨木顺麻糍
+　　地址：市区世纪广场2幢A-21
+　　　　老游麻糍店
+　　地址：市区世纪广场9幢A3店面
+　　　　孙氏麻糍粿店
+　　地址：南昌路文华园8栋
+　　　　诗墩粿店
+　　地址：新华西南14幢11号
+</text>
+<text class='detail' decode="true">
+    16、三角饼：
+　　三角饼制作的仪器容易让人联想起鸡蛋汉堡、鸡蛋仔，只不过它是三角形的。最早的三角饼分咸、甜两种，咸的内陷包肉、葱油等；甜的包芋泥。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-b6e514a0c32eb94b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　而往后，售卖的人们发挥了极大的想象力，各种美味馅料都陆续出现。苹果味的、菠萝味的、青椒牛肉味的、香菇肉丝味的等等，一定有你喜欢的味道。外皮酥脆，现买现吃才香。价格也在1—2元左右而已。
+　　推荐：
+　　　　晓文三角饼
+　　地址：芗城区新华西路266-2号
+　　　　承信三角饼
+　　地址：晓文三角饼隔壁
+</text>
+<text class='detail' decode="true">
+    17、菜头粿：
+　　菜头粿即萝卜糕。一般门店会摆上一口黝黑的煎锅，以高温油炸，菜头粿表皮香脆后起锅，切成一小块一小块，里面却还是软嫩的样子。竹签一戳，蘸上甜辣味的蒜蓉酱，十分接地气，但如今已经很少见了。
+</text>
+<view class='img'>
+      <image src='https://upload-images.jianshu.io/upload_images/3235837-07727d20c33b2e60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' mode='aspectFit'></image>
+    </view>
+    <text class='detail' decode="true">　　推荐：
+　　　　诗墩麻糍粿
+　　地址：新华西路新华园11栋，人民新村南门对面
+</text>
+<text class='detail' decode="true">
+　　还有很多美食未能完全介绍，就等着你们来发现啦~~
+</text>
+  </view>
+</view>
